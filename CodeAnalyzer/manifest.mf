@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: nl.hu.codeanalyzer.jr
+OpenIDE-Module-Localizing-Bundle: nl/hu/codeanalyzer/jr/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
